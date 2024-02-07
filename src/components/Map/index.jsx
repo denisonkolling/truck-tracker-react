@@ -12,16 +12,20 @@ const Map = ({ positions, center }) => {
 
 			{positions.map((vehicle, index) => {
 				return (
-					<MarkerStyled position={[vehicle.latitude, vehicle.longitude]} key={index}>
+					<MarkerStyled
+						position={[vehicle.latitude, vehicle.longitude]}
+						key={index}>
 						<PopupStyled>
 							<p>
-								<strong>Plate</strong> {vehicle.license_plate}<br />
-                <strong>Ignition {vehicle.ignition ? "On" : "Off"}</strong>
-								<strong>Speed</strong> {vehicle.speed}<br />									
+								<strong>Plate</strong> {vehicle.license_plate}
+								<br />
+								<strong>Ignition {vehicle.ignition ? 'On' : 'Off'}</strong>
+								<strong>Speed</strong> {vehicle.speed}
+								<br />
 							</p>
 						</PopupStyled>
 					</MarkerStyled>
-				)
+				);
 			})}
 		</MapContainerStyled>
 	);
