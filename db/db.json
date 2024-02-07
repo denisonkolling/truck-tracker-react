@@ -1,236 +1,139 @@
-[
-  {
-    "id": 1,
-    "datetime": "2024-02-07T08:00:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignition": true,
-    "speed": 60
-  },
-  {
-    "id": 2,
-    "datetime": "2024-02-07T08:05:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.547,
-    "latitude": -27.596,
-    "ignition": true,
-    "speed": 65
-  },
-  {
-    "id": 3,
-    "datetime": "2024-02-07T08:10:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.548,
-    "latitude": -27.597,
-    "ignition": true,
-    "speed": 70
-  },
-  {
-    "id": 4,
-    "datetime": "2024-02-07T08:15:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.549,
-    "latitude": -27.598,
-    "ignition": true,
-    "speed": 75
-  },
-  {
-    "id": 5,
-    "datetime": "2024-02-07T08:20:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.55,
-    "latitude": -27.599,
-    "ignition": true,
-    "speed": 80
-  },
-  {
-    "id": 6,
-    "datetime": "2024-02-07T08:25:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.551,
-    "latitude": -27.6,
-    "ignition": true,
-    "speed": 85
-  },
-  {
-    "id": 7,
-    "datetime": "2024-02-07T08:30:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.552,
-    "latitude": -27.601,
-    "ignition": true,
-    "speed": 90
-  },
-  {
-    "id": 8,
-    "datetime": "2024-02-07T08:35:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.553,
-    "latitude": -27.602,
-    "ignition": true,
-    "speed": 95
-  },
-  {
-    "id": 9,
-    "datetime": "2024-02-07T08:40:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.554,
-    "latitude": -27.603,
-    "ignition": true,
-    "speed": 100
-  },
-  {
-    "id": 10,
-    "datetime": "2024-02-07T08:45:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.555,
-    "latitude": -27.604,
-    "ignition": true,
-    "speed": 105
-  },
-  {
-    "id": 11,
-    "datetime": "2024-02-07T08:00:00",
-    "license_plate": "XYZ9876",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignition": true,
-    "speed": 60
-  },
-  {
-    "id": 1,
-    "data_hora": "2024-02-07T08:00:00",
-    "placa": "XYZ9876",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignicao": true,
-    "velocidade": 60
-  },
-  {
-    "id": 2,
-    "data_hora": "2024-02-07T08:05:00",
-    "placa": "XYZ9876",
-    "longitude": -48.547,
-    "latitude": -27.596,
-    "ignicao": true,
-    "velocidade": 65
-  },
-  {
-    "id": 3,
-    "data_hora": "2024-02-07T08:10:00",
-    "placa": "XYZ9876",
-    "longitude": -48.548,
-    "latitude": -27.597,
-    "ignicao": true,
-    "velocidade": 70
-  },
-  {
-    "id": 4,
-    "data_hora": "2024-02-07T08:15:00",
-    "placa": "XYZ9876",
-    "longitude": -48.549,
-    "latitude": -27.598,
-    "ignicao": true,
-    "velocidade": 75
-  },
-  {
-    "id": 5,
-    "data_hora": "2024-02-07T08:20:00",
-    "placa": "XYZ9876",
-    "longitude": -48.55,
-    "latitude": -27.599,
-    "ignicao": true,
-    "velocidade": 80
-  },
-  {
-    "id": 6,
-    "data_hora": "2024-02-07T08:25:00",
-    "placa": "XYZ9876",
-    "longitude": -48.551,
-    "latitude": -27.6,
-    "ignicao": true,
-    "velocidade": 85
-  },
-  {
-    "id": 7,
-    "data_hora": "2024-02-07T08:30:00",
-    "placa": "XYZ9876",
-    "longitude": -48.552,
-    "latitude": -27.601,
-    "ignicao": true,
-    "velocidade": 90
-  },
-  {
-    "id": 8,
-    "data_hora": "2024-02-07T08:35:00",
-    "placa": "XYZ9876",
-    "longitude": -48.553,
-    "latitude": -27.602,
-    "ignicao": true,
-    "velocidade": 95
-  },
-  {
-    "id": 9,
-    "data_hora": "2024-02-07T08:40:00",
-    "placa": "XYZ9876",
-    "longitude": -48.554,
-    "latitude": -27.603,
-    "ignicao": true,
-    "velocidade": 100
-  },
-  {
-    "id": 10,
-    "data_hora": "2024-02-07T08:45:00",
-    "placa": "XYZ9876",
-    "longitude": -48.555,
-    "latitude": -27.604,
-    "ignicao": true,
-    "velocidade": 105
-  },
-  {
-    "id": 11,
-    "data_hora": "2024-02-07T08:00:00",
-    "placa": "XYZ9876",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignicao": true,
-    "velocidade": 60
-  },
-  {
-    "id": 12,
-    "data_hora": "2024-02-07T08:10:00",
-    "placa": "ABC1234",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignicao": true,
-    "velocidade": 62
-  },
-  {
-    "id": 13,
-    "data_hora": "2024-02-07T08:20:00",
-    "placa": "DEF5678",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignicao": true,
-    "velocidade": 65
-  },
-  {
-    "id": 14,
-    "data_hora": "2024-02-07T08:30:00",
-    "placa": "GHI91011",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignicao": true,
-    "velocidade": 63
-  },
-  {
-    "id": 15,
-    "data_hora": "2024-02-07T08:40:00",
-    "placa": "JKL1213",
-    "longitude": -48.546,
-    "latitude": -27.5954,
-    "ignicao": true,
-    "velocidade": 67
-  }
-]
+{
+  "positions": [
+    {
+      "id": 1,
+      "datetime": "2024-02-07T08:00:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.546,
+      "latitude": -27.5954,
+      "ignition": true,
+      "speed": 60
+    },
+    {
+      "id": 2,
+      "datetime": "2024-02-07T08:05:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.547,
+      "latitude": -27.596,
+      "ignition": true,
+      "speed": 65
+    },
+    {
+      "id": 3,
+      "datetime": "2024-02-07T08:10:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.548,
+      "latitude": -27.597,
+      "ignition": true,
+      "speed": 70
+    },
+    {
+      "id": 4,
+      "datetime": "2024-02-07T08:15:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.549,
+      "latitude": -27.598,
+      "ignition": true,
+      "speed": 75
+    },
+    {
+      "id": 5,
+      "datetime": "2024-02-07T08:20:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.55,
+      "latitude": -27.599,
+      "ignition": true,
+      "speed": 80
+    },
+    {
+      "id": 6,
+      "datetime": "2024-02-07T08:25:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.551,
+      "latitude": -27.6,
+      "ignition": true,
+      "speed": 85
+    },
+    {
+      "id": 7,
+      "datetime": "2024-02-07T08:30:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.552,
+      "latitude": -27.601,
+      "ignition": true,
+      "speed": 90
+    },
+    {
+      "id": 8,
+      "datetime": "2024-02-07T08:35:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.553,
+      "latitude": -27.602,
+      "ignition": true,
+      "speed": 95
+    },
+    {
+      "id": 9,
+      "datetime": "2024-02-07T08:40:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.554,
+      "latitude": -27.603,
+      "ignition": true,
+      "speed": 100
+    },
+    {
+      "id": 10,
+      "datetime": "2024-02-07T08:45:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.555,
+      "latitude": -27.604,
+      "ignition": true,
+      "speed": 105
+    },
+    {
+      "id": 11,
+      "datetime": "2024-02-07T08:00:00",
+      "license_plate": "XYZ9876",
+      "longitude": -48.546,
+      "latitude": -27.5954,
+      "ignition": true,
+      "speed": 60
+    },
+    {
+      "id": 12,
+      "datetime": "2024-02-07T08:10:00",
+      "license_plate": "ABC1234",
+      "longitude": -48.546,
+      "latitude": -27.5954,
+      "ignition": true,
+      "speed": 62
+    },
+    {
+      "id": 13,
+      "datetime": "2024-02-07T08:20:00",
+      "license_plate": "DEF5678",
+      "longitude": -48.546,
+      "latitude": -27.5954,
+      "ignition": true,
+      "speed": 65
+    },
+    {
+      "id": 14,
+      "datetime": "2024-02-07T08:30:00",
+      "license_plate": "GHI91011",
+      "longitude": -48.546,
+      "latitude": -27.5954,
+      "ignition": true,
+      "speed": 63
+    },
+    {
+      "id": 15,
+      "datetime": "2024-02-07T08:40:00",
+      "license_plate": "JKL1213",
+      "longitude": -48.546,
+      "latitude": -27.5954,
+      "ignition": true,
+      "speed": 67
+    }
+  ]
+}
