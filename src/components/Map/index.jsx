@@ -17,11 +17,13 @@ const Map = ({ positions, center }) => {
 						key={index}>
 						<PopupStyled>
 							<p>
+								<strong>Date</strong> {vehicle.datetime}
+								<br />
 								<strong>Plate</strong> {vehicle.license_plate}
 								<br />
 								<strong>Ignition {vehicle.ignition ? 'On' : 'Off'}</strong>
-								<strong>Speed</strong> {vehicle.speed}
 								<br />
+								<strong>Speed</strong> {vehicle.speed}
 							</p>
 						</PopupStyled>
 					</MarkerStyled>
